@@ -1,0 +1,6 @@
+{
+  "name": "Onde Viver? / Where to Live?",
+  "description": "Descubra a sua cidade ideal no mundo com base no seu estilo de vida, hábitos e sonhos. Disponível em português e inglês.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
